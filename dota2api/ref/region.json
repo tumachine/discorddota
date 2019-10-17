@@ -1,0 +1,126 @@
+{
+    "0": {
+        "name": "unspecified",
+        "langKey": "region.unspecified"
+    },
+    "1": {
+        "name": "USWest",
+        "clientName": "US West",
+        "leaderboardDivision": "americas",
+        "langKey": "region.uswest"
+    },
+    "2": {
+        "name": "USEast",
+        "clientName": "US East",
+        "leaderboardDivision": "americas",
+        "langKey": "region.useast"
+    },
+    "3": {
+        "name": "Europe",
+        "clientName": "Europe West",
+        "leaderboardDivision": "europe",
+        "langKey": "region.europe"
+    },
+    "5": {
+        "name": "Singapore",
+        "clientName": "SE Asia",
+        "leaderboardDivision": "se_asia",
+        "langKey": "region.sinapore"
+    },
+    "6": {
+        "name": "Dubai",
+        "clientName": "Dubai",
+        "leaderboardDivision": "se_asia",
+        "langKey": "region.dubai"
+    },
+    "7": {
+        "name": "Australia",
+        "clientName": "Australia",
+        "leaderboardDivision": "se_asia",
+        "langKey": "region.australia"
+    },
+    "8": {
+        "name": "Stockholm",
+        "clientName": "Russia",
+        "leaderboardDivision": "europe",
+        "langKey": "region.stockholm"
+    },
+    "9": {
+        "name": "Austria",
+        "clientName": "EU East",
+        "leaderboardDivision": "europe",
+        "langKey": "region.austria"
+    },
+    "10": {
+        "name": "Brazil",
+        "clientName": "South America",
+        "leaderboardDivision": "americas",
+        "langKey": "region.brazil"
+    },
+    "11": {
+        "name": "SouthAfrica",
+        "clientName": "South Africa",
+        "leaderboardDivision": "europe",
+        "langKey": "region.south_africa"
+    },
+    "12": {
+        "name": "PerfectWorldTelecom",
+        "clientName": "China",
+        "leaderboardDivision": "china",
+        "langKey": "region.china"
+    },
+    "13": {
+        "name": "PerfectWorldUnicom",
+        "clientName": "China",
+        "leaderboardDivision": "china",
+        "langKey": "region.china"
+    },
+    "14": {
+        "name": "Chile",
+        "clientName": "Chile",
+        "leaderboardDivision": "americas",
+        "langKey": "region.chile"
+    },
+    "15": {
+        "name": "Peru",
+        "clientName": "Peru",
+        "leaderboardDivision": "americas",
+        "langKey": "region.peru"
+    },
+    "16": {
+        "name": "India",
+        "clientName": "India",
+        "leaderboardDivision": "se_asia",
+        "langKey": "region.india"
+    },
+    "17": {
+        "name": "PerfectWorldTelecomGuangdong",
+        "clientName": "China",
+        "leaderboardDivision": "china",
+        "langKey": "region.china"
+    },
+    "18": {
+        "name": "PerfectWorldTelecomZhejiang",
+        "clientName": "China",
+        "leaderboardDivision": "china",
+        "langKey": "region.china"
+    },
+    "19": {
+        "name": "Japan",
+        "clientName": "Japan",
+        "leaderboardDivision": "se_asia",
+        "langKey": "region.japan"
+    },
+    "20": {
+        "name": "PerfectWorldTelecomWuhan",
+        "clientName": "China",
+        "leaderboardDivision": "china",
+        "langKey": "region.china"
+    },
+    "25": {
+        "name": "PerfectWorldUnicomTianjin",
+        "clientName": "China",
+        "leaderboardDivision": "china",
+        "langKey": "region.china"
+    }
+}

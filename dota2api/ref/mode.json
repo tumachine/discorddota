@@ -1,0 +1,67 @@
+{
+  "0": { "id": 0, "name": "None", "langKey": "gamemode.none" },
+  "1": { "id": 1, "name": "All Pick", "langKey": "gamemode.all_pick" },
+  "2": {
+    "id": 2,
+    "name": "Captain's Mode",
+    "langKey": "gamemode.captain_mode"
+  },
+  "3": { "id": 3, "name": "Random Draft", "langKey": "gamemode.random_draft" },
+  "4": { "id": 4, "name": "Single Draft", "langKey": "gamemode.single_draft" },
+  "5": { "id": 5, "name": "All Random", "langKey": "gamemode.all_random" },
+  "6": { "id": 6, "name": "Intro", "langKey": "gamemode.intro" },
+  "7": { "id": 7, "name": "The Diretide", "langKey": "gamemode.the_diretide" },
+  "8": {
+    "id": 8,
+    "name": "Reverse Captain's Mode",
+    "langKey": "gamemode.reverse_captain"
+  },
+  "9": {
+    "id": 9,
+    "name": "The Greeviling",
+    "langKey": "gamemode.the_greeviling"
+  },
+  "10": { "id": 10, "name": "Tutorial", "langKey": "gamemode.tutorial" },
+  "11": { "id": 11, "name": "Mid Only", "langKey": "gamemode.mid_only" },
+  "12": {
+    "id": 12,
+    "name": "Least Played",
+    "langKey": "gamemode.least_played"
+  },
+  "13": {
+    "id": 13,
+    "name": "New Player Pool",
+    "langKey": "gamemode.new_player_pool"
+  },
+  "14": {
+    "id": 14,
+    "name": "Compendium Matchmaking",
+    "langKey": "gamemode.compendium_matchmaking"
+  },
+  "15": { "id": 15, "name": "Custom", "langKey": "gamemode.custom" },
+  "16": {
+    "id": 16,
+    "name": "Captain's Draft",
+    "langKey": "gamemode.captain_draft"
+  },
+  "17": {
+    "id": 17,
+    "name": "Balanced Draft",
+    "langKey": "gamemode.balanced_draft"
+  },
+  "18": {
+    "id": 18,
+    "name": "Ability Draft",
+    "langKey": "gamemode.ability_draft"
+  },
+  "19": { "id": 19, "name": "Event", "langKey": "gamemode.event" },
+  "20": {
+    "id": 20,
+    "name": "All Random Deathmatch",
+    "langKey": "gamemode.all_random_deathmatch"
+  },
+  "21": { "id": 21, "name": "Solo Mid", "langKey": "gamemode.solo_mid" },
+  "22": { "id": 22, "name": "All Pick", "langKey": "gamemode.all_pick_ranked" },
+  "23": { "id": 23, "name": "Turbo", "langKey": "gamemode.turbo" },
+  "24": { "id": 24, "name": "Mutation", "langKey": "gamemode.mutation" }
+}

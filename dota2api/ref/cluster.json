@@ -1,0 +1,167 @@
+{
+    "111": {
+        "regionId": 1
+    },
+    "112": {
+        "regionId": 1
+    },
+    "113": {
+        "regionId": 1
+    },
+    "114": {
+        "regionId": 1
+    },
+    "121": {
+        "regionId": 2
+    },
+    "122": {
+        "regionId": 2
+    },
+    "123": {
+        "regionId": 2
+    },
+    "124": {
+        "regionId": 2
+    },
+    "131": {
+        "regionId": 3
+    },
+    "132": {
+        "regionId": 3
+    },
+    "133": {
+        "regionId": 3
+    },
+    "134": {
+        "regionId": 3
+    },
+    "135": {
+        "regionId": 3
+    },
+    "136": {
+        "regionId": 3
+    },
+    "137": {
+        "regionId": 3
+    },
+    "138": {
+        "regionId": 3
+    },
+    "144": {
+        "regionId": 19
+    },
+    "145": {
+        "regionId": 19
+    },
+    "151": {
+        "regionId": 5
+    },
+    "152": {
+        "regionId": 5
+    },
+    "153": {
+        "regionId": 5
+    },
+    "154": {
+        "regionId": 5
+    },
+    "155": {
+        "regionId": 5
+    },
+    "156": {
+        "regionId": 5
+    },
+    "161": {
+        "regionId": 6
+    },
+    "171": {
+        "regionId": 7
+    },
+    "172": {
+        "regionId": 7
+    },
+    "181": {
+        "regionId": 8
+    },
+    "182": {
+        "regionId": 8
+    },
+    "183": {
+        "regionId": 8
+    },
+    "184": {
+        "regionId": 8
+    },
+    "185": {
+        "regionId": 8
+    },
+    "186": {
+        "regionId": 8
+    },
+    "187": {
+        "regionId": 8
+    },
+    "188": {
+        "regionId": 8
+    },
+    "191": {
+        "regionId": 9
+    },
+    "192": {
+        "regionId": 9
+    },
+    "193": {
+        "regionId": 9
+    },
+    "201": {
+        "regionId": 10
+    },
+    "202": {
+        "regionId": 10
+    },
+    "204": {
+        "regionId": 10
+    },
+    "211": {
+        "regionId": 11
+    },
+    "212": {
+        "regionId": 11
+    },
+    "213": {
+        "regionId": 11
+    },
+    "214": {
+        "regionId": 11
+    },
+    "223": {
+        "regionId": 18
+    },
+    "224": {
+        "regionId": 12
+    },
+    "225": {
+        "regionId": 17
+    },
+    "227": {
+        "regionId": 20
+    },
+    "231": {
+        "regionId": 13
+    },
+    "232": {
+        "regionId": 25
+    },
+    "241": {
+        "regionId": 14
+    },
+    "242": {
+        "regionId": 14
+    },
+    "251": {
+        "regionId": 15
+    },
+    "261": {
+        "regionId": 16
+    }
+}

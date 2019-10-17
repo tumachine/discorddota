@@ -1,0 +1,30 @@
+1. Serialize most used API
+    1. get_stratz_player DONE
+    2. get_stratz_player_hero_performance DONE
+    3. get_match_details DONE
+    4. get_player_summaries DONE
+2. Combine automatic voice messaging with voice messaging on user message DONE
+3. Add ability to turn off voice, text, image messaging through a command message
+4. Dota GSI should able to
+    1. Have a way to detect RUNES spawning DONE
+    2. Whenever a user of this bot is in the game, players can request current hero status
+        1. In form of an Image, Voice or Text
+       9. After roshan is killed.
+    3. On keypress, start the timer of
+        1. Aegis will expire in 5 minutes
+        2. Roshan will respawn between 8 - 11 minutes
+5. Add notifications
+    Some notifications can be played either directly to bot user or to voice channel
+    1. Discord notifications
+        1. Highest rank player on pregame summary DONE
+        2. Whenever new user joins a server, greet him with a welcoming message
+    2. Personal notifications
+        1. Midas off cooldown
+
+6. Stats for:
+    1. Last 5 or less games on a hero for a player: !hero winternwyvern DONE
+        1. Add date of a match DONE
+    2. World-map with info about amount of games played on certain regions, winrate
+7. Get guides for a hero:
+    1. !heroguide mirana -> link to dotabuff https://www.dotabuff.com/heroes/mirana/guides Done
+8. Add average mmr or rank

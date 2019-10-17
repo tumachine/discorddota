@@ -1,0 +1,1676 @@
+{
+    "5295": {
+        "name": "centaur_khan_war_stomp"
+    },
+    "5200": {
+        "name": "necronomicon_warrior_last_will"
+    },
+    "5147": {
+        "name": "enigma_demonic_conversion"
+    },
+    "5171": {
+        "name": "beastmaster_boar_poison"
+    },
+    "5028": {
+        "name": "juggernaut_blade_fury"
+    },
+    "5139": {
+        "name": "witch_doctor_voodoo_restoration"
+    },
+    "5016": {
+        "name": "bloodseeker_blood_bath"
+    },
+    "5351": {
+        "name": "backdoor_protection_in_base"
+    },
+    "5283": {
+        "name": "broodmother_spawn_spiderite"
+    },
+    "5353": {
+        "name": "spirit_breaker_charge_of_darkness"
+    },
+    "5427": {
+        "name": "chaos_knight_reality_rift"
+    },
+    "5043": {
+        "name": "lina_laguna_blade"
+    },
+    "5144": {
+        "name": "riki_backstab"
+    },
+    "5318": {
+        "name": "forest_troll_high_priest_heal"
+    },
+    "5164": {
+        "name": "warlock_upheaval"
+    },
+    "5304": {
+        "name": "ogre_magi_frost_armor"
+    },
+    "5002": {
+        "name": "stats"
+    },
+    "5233": {
+        "name": "dazzle_poison_touch"
+    },
+    "5199": {
+        "name": "templar_assassin_self_trap"
+    },
+    "5378": {
+        "name": "silencer_glaives_of_wisdom"
+    },
+    "5165": {
+        "name": "warlock_rain_of_chaos"
+    },
+    "5096": {
+        "name": "sven_warcry"
+    },
+    "5195": {
+        "name": "templar_assassin_meld"
+    },
+    "5270": {
+        "name": "enchantress_impetus"
+    },
+    "5024": {
+        "name": "earthshaker_enchant_totem"
+    },
+    "5414": {
+        "name": "lone_druid_synergy"
+    },
+    "5387": {
+        "name": "invoker_forge_spirit"
+    },
+    "5429": {
+        "name": "chaos_knight_phantasm"
+    },
+    "5317": {
+        "name": "satyr_hellcaller_unholy_aura"
+    },
+    "5080": {
+        "name": "shadow_shaman_shackles"
+    },
+    "5440": {
+        "name": "ogre_magi_bloodlust"
+    },
+    "5424": {
+        "name": "shadow_demon_shadow_poison_release"
+    },
+    "5325": {
+        "name": "blue_dragonspawn_sorcerer_evasion"
+    },
+    "5003": {
+        "name": "antimage_mana_break"
+    },
+    "5354": {
+        "name": "spirit_breaker_empowering_haste"
+    },
+    "5316": {
+        "name": "satyr_hellcaller_shockwave"
+    },
+    "5055": {
+        "name": "morphling_morph_agi"
+    },
+    "5288": {
+        "name": "bounty_hunter_track"
+    },
+    "5015": {
+        "name": "bloodseeker_bloodrage"
+    },
+    "5392": {
+        "name": "obsidian_destroyer_astral_imprisonment"
+    },
+    "5136": {
+        "name": "lich_dark_ritual"
+    },
+    "5005": {
+        "name": "antimage_spell_shield"
+    },
+    "5269": {
+        "name": "enchantress_natures_attendants"
+    },
+    "5281": {
+        "name": "broodmother_incapacitating_bite"
+    },
+    "5447": {
+        "name": "undying_flesh_golem"
+    },
+    "5413": {
+        "name": "lone_druid_rabid"
+    },
+    "5114": {
+        "name": "slardar_sprint"
+    },
+    "5104": {
+        "name": "sandking_caustic_finale"
+    },
+    "5063": {
+        "name": "nevermore_dark_lord"
+    },
+    "5500": {
+        "name": "lycan_summon_wolves_invisibility"
+    },
+    "5252": {
+        "name": "life_stealer_infest"
+    },
+    "5397": {
+        "name": "lycan_feral_impulse"
+    },
+    "5358": {
+        "name": "ursa_overpower"
+    },
+    "5313": {
+        "name": "enraged_wildkin_toughness_aura"
+    },
+    "5074": {
+        "name": "pudge_flesh_heap"
+    },
+    "5140": {
+        "name": "witch_doctor_maledict"
+    },
+    "5125": {
+        "name": "vengefulspirit_nether_swap"
+    },
+    "5290": {
+        "name": "weaver_shukuchi"
+    },
+    "5289": {
+        "name": "weaver_the_swarm"
+    },
+    "5365": {
+        "name": "alchemist_acid_spray"
+    },
+    "5190": {
+        "name": "phantom_assassin_stifling_dagger"
+    },
+    "5105": {
+        "name": "sandking_epicenter"
+    },
+    "5310": {
+        "name": "tornado_tempest"
+    },
+    "5299": {
+        "name": "jakiro_liquid_fire"
+    },
+    "5331": {
+        "name": "chen_hand_of_god"
+    },
+    "5323": {
+        "name": "batrider_flaming_lasso"
+    },
+    "5416": {
+        "name": "lone_druid_true_form"
+    },
+    "5356": {
+        "name": "spirit_breaker_nether_strike"
+    },
+    "5337": {
+        "name": "spectre_haunt"
+    },
+    "5369": {
+        "name": "alchemist_chemical_rage"
+    },
+    "5379": {
+        "name": "silencer_last_word"
+    },
+    "5153": {
+        "name": "tinker_rearm"
+    },
+    "5239": {
+        "name": "rattletrap_rocket_flare"
+    },
+    "5266": {
+        "name": "omniknight_guardian_angel"
+    },
+    "5242": {
+        "name": "leshrac_diabolic_edict"
+    },
+    "5107": {
+        "name": "tiny_toss"
+    },
+    "5083": {
+        "name": "razor_static_link"
+    },
+    "5389": {
+        "name": "invoker_ice_wall"
+    },
+    "5401": {
+        "name": "brewmaster_drunken_haze"
+    },
+    "5321": {
+        "name": "batrider_flamebreak"
+    },
+    "5256": {
+        "name": "dark_seer_ion_shell"
+    },
+    "5175": {
+        "name": "queenofpain_scream_of_pain"
+    },
+    "5192": {
+        "name": "phantom_assassin_blur"
+    },
+    "5067": {
+        "name": "phantom_lancer_juxtapose"
+    },
+    "5120": {
+        "name": "tidehunter_anchor_smash"
+    },
+    "5008": {
+        "name": "axe_battle_hunger"
+    },
+    "5189": {
+        "name": "pugna_life_drain"
+    },
+    "5322": {
+        "name": "batrider_firefly"
+    },
+    "5177": {
+        "name": "beastmaster_primal_roar"
+    },
+    "5081": {
+        "name": "shadow_shaman_mass_serpent_ward"
+    },
+    "5435": {
+        "name": "treant_leech_seed"
+    },
+    "5330": {
+        "name": "chen_holy_persuasion"
+    },
+    "5210": {
+        "name": "courier_burst"
+    },
+    "5222": {
+        "name": "luna_lucent_beam"
+    },
+    "5058": {
+        "name": "morphling_morph_replicate"
+    },
+    "5179": {
+        "name": "venomancer_poison_sting"
+    },
+    "5214": {
+        "name": "roshan_bash"
+    },
+    "5152": {
+        "name": "tinker_march_of_the_machines"
+    },
+    "5420": {
+        "name": "lone_druid_spirit_bear_demolish"
+    },
+    "5050": {
+        "name": "mirana_leap"
+    },
+    "5410": {
+        "name": "brewmaster_storm_wind_walk"
+    },
+    "5089": {
+        "name": "skeleton_king_reincarnation"
+    },
+    "5169": {
+        "name": "beastmaster_call_of_the_wild"
+    },
+    "5145": {
+        "name": "riki_permanent_invisibility"
+    },
+    "5209": {
+        "name": "courier_shield"
+    },
+    "5260": {
+        "name": "clinkz_searing_arrows"
+    },
+    "5069": {
+        "name": "puck_illusory_orb"
+    },
+    "5388": {
+        "name": "forged_spirit_melting_strike"
+    },
+    "5221": {
+        "name": "viper_viper_strike"
+    },
+    "5248": {
+        "name": "furion_wrath_of_nature"
+    },
+    "5377": {
+        "name": "silencer_curse_of_the_silent"
+    },
+    "5134": {
+        "name": "lich_frost_nova"
+    },
+    "5342": {
+        "name": "doom_bringer_doom"
+    },
+    "5166": {
+        "name": "warlock_golem_flaming_fists"
+    },
+    "5370": {
+        "name": "invoker_quas"
+    },
+    "5375": {
+        "name": "invoker_invoke"
+    },
+    "5236": {
+        "name": "dazzle_weave"
+    },
+    "5492": {
+        "name": "courier_go_to_secretshop"
+    },
+    "5432": {
+        "name": "meepo_geostrike"
+    },
+    "5441": {
+        "name": "ogre_magi_multicast"
+    },
+    "5127": {
+        "name": "crystal_maiden_frostbite"
+    },
+    "5390": {
+        "name": "invoker_deafening_blast"
+    },
+    "5129": {
+        "name": "crystal_maiden_freezing_field"
+    },
+    "5041": {
+        "name": "lina_light_strike_array"
+    },
+    "5226": {
+        "name": "dragon_knight_breathe_fire"
+    },
+    "5023": {
+        "name": "earthshaker_fissure"
+    },
+    "5138": {
+        "name": "witch_doctor_paralyzing_cask"
+    },
+    "5294": {
+        "name": "centaur_khan_endurance_aura"
+    },
+    "5362": {
+        "name": "gyrocopter_homing_missile"
+    },
+    "5091": {
+        "name": "death_prophet_silence"
+    },
+    "5168": {
+        "name": "beastmaster_wild_axes"
+    },
+    "5341": {
+        "name": "doom_bringer_lvl_death"
+    },
+    "5173": {
+        "name": "queenofpain_shadow_strike"
+    },
+    "5106": {
+        "name": "tiny_avalanche"
+    },
+    "5372": {
+        "name": "invoker_exort"
+    },
+    "5417": {
+        "name": "lone_druid_true_form_battle_cry"
+    },
+    "5108": {
+        "name": "tiny_craggy_exterior"
+    },
+    "5006": {
+        "name": "antimage_mana_void"
+    },
+    "5142": {
+        "name": "riki_smoke_screen"
+    },
+    "5213": {
+        "name": "roshan_spell_block"
+    },
+    "5029": {
+        "name": "juggernaut_healing_ward"
+    },
+    "5349": {
+        "name": "ancient_apparition_ice_blast_release"
+    },
+    "5391": {
+        "name": "obsidian_destroyer_arcane_orb"
+    },
+    "5025": {
+        "name": "earthshaker_aftershock"
+    },
+    "5314": {
+        "name": "satyr_trickster_purge"
+    },
+    "5117": {
+        "name": "slardar_amplify_damage"
+    },
+    "5234": {
+        "name": "dazzle_shallow_grave"
+    },
+    "5109": {
+        "name": "tiny_grow"
+    },
+    "5425": {
+        "name": "shadow_demon_demonic_purge"
+    },
+    "5148": {
+        "name": "enigma_midnight_pulse"
+    },
+    "5436": {
+        "name": "treant_living_armor"
+    },
+    "5335": {
+        "name": "spectre_desolate"
+    },
+    "5292": {
+        "name": "weaver_time_lapse"
+    },
+    "5347": {
+        "name": "ancient_apparition_chilling_touch"
+    },
+    "5409": {
+        "name": "brewmaster_storm_cyclone"
+    },
+    "5123": {
+        "name": "vengefulspirit_command_aura"
+    },
+    "5279": {
+        "name": "broodmother_spawn_spiderlings"
+    },
+    "5013": {
+        "name": "bane_fiends_grip"
+    },
+    "5363": {
+        "name": "gyrocopter_flak_cannon"
+    },
+    "5156": {
+        "name": "sniper_take_aim"
+    },
+    "5095": {
+        "name": "sven_great_cleave"
+    },
+    "5093": {
+        "name": "death_prophet_exorcism"
+    },
+    "5048": {
+        "name": "mirana_arrow"
+    },
+    "5286": {
+        "name": "bounty_hunter_jinada"
+    },
+    "5076": {
+        "name": "pudge_rot"
+    },
+    "5329": {
+        "name": "chen_test_of_faith"
+    },
+    "5298": {
+        "name": "jakiro_ice_path"
+    },
+    "5312": {
+        "name": "enraged_wildkin_tornado"
+    },
+    "5187": {
+        "name": "pugna_decrepify"
+    },
+    "5306": {
+        "name": "dark_troll_warlord_raise_dead"
+    },
+    "5021": {
+        "name": "drow_ranger_trueshot"
+    },
+    "5124": {
+        "name": "vengefulspirit_wave_of_terror"
+    },
+    "5287": {
+        "name": "bounty_hunter_wind_walk"
+    },
+    "5064": {
+        "name": "nevermore_requiem"
+    },
+    "5206": {
+        "name": "courier_transfer_items"
+    },
+    "5218": {
+        "name": "viper_poison_attack"
+    },
+    "5411": {
+        "name": "brewmaster_fire_permanent_immolation"
+    },
+    "5366": {
+        "name": "alchemist_unstable_concoction"
+    },
+    "5443": {
+        "name": "undying_soul_rip"
+    },
+    "5217": {
+        "name": "roshan_devotion"
+    },
+    "5113": {
+        "name": "zuus_thundergods_wrath"
+    },
+    "5280": {
+        "name": "broodmother_spin_web"
+    },
+    "5297": {
+        "name": "jakiro_dual_breath"
+    },
+    "5223": {
+        "name": "luna_moon_glaive"
+    },
+    "5215": {
+        "name": "roshan_slam"
+    },
+    "5176": {
+        "name": "queenofpain_sonic_wave"
+    },
+    "5157": {
+        "name": "sniper_assassinate"
+    },
+    "5382": {
+        "name": "invoker_tornado"
+    },
+    "5305": {
+        "name": "dark_troll_warlord_ensnare"
+    },
+    "5207": {
+        "name": "courier_return_stash_items"
+    },
+    "5320": {
+        "name": "batrider_sticky_napalm"
+    },
+    "5346": {
+        "name": "ancient_apparition_ice_vortex"
+    },
+    "5130": {
+        "name": "windrunner_shackleshot"
+    },
+    "5045": {
+        "name": "lion_voodoo"
+    },
+    "5442": {
+        "name": "undying_decay"
+    },
+    "5151": {
+        "name": "tinker_heat_seeking_missile"
+    },
+    "5046": {
+        "name": "lion_mana_drain"
+    },
+    "5412": {
+        "name": "lone_druid_spirit_bear"
+    },
+    "5079": {
+        "name": "shadow_shaman_voodoo"
+    },
+    "5400": {
+        "name": "brewmaster_thunder_clap"
+    },
+    "5433": {
+        "name": "meepo_divided_we_stand"
+    },
+    "5333": {
+        "name": "big_thunder_lizard_frenzy"
+    },
+    "5225": {
+        "name": "luna_eclipse"
+    },
+    "5103": {
+        "name": "sandking_sand_storm"
+    },
+    "5307": {
+        "name": "giant_wolf_critical_strike"
+    },
+    "5408": {
+        "name": "brewmaster_storm_dispel_magic"
+    },
+    "5332": {
+        "name": "big_thunder_lizard_slam"
+    },
+    "5491": {
+        "name": "forest_troll_high_priest_mana_aura"
+    },
+    "5371": {
+        "name": "invoker_wex"
+    },
+    "5261": {
+        "name": "clinkz_wind_walk"
+    },
+    "5415": {
+        "name": "lone_druid_true_form"
+    },
+    "5446": {
+        "name": "undying_tombstone_zombie_deathstrike"
+    },
+    "5174": {
+        "name": "queenofpain_blink"
+    },
+    "5216": {
+        "name": "roshan_illusion_protection"
+    },
+    "5204": {
+        "name": "necronomicon_archer_aoe"
+    },
+    "5141": {
+        "name": "witch_doctor_death_ward"
+    },
+    "5267": {
+        "name": "enchantress_untouchable"
+    },
+    "5275": {
+        "name": "night_stalker_void"
+    },
+    "5184": {
+        "name": "faceless_void_time_lock"
+    },
+    "5183": {
+        "name": "faceless_void_backtrack"
+    },
+    "5302": {
+        "name": "polar_furbolg_ursa_warrior_thunder_clap"
+    },
+    "5116": {
+        "name": "slardar_bash"
+    },
+    "5264": {
+        "name": "omniknight_repel"
+    },
+    "5274": {
+        "name": "huskar_life_break"
+    },
+    "5355": {
+        "name": "spirit_breaker_greater_bash"
+    },
+    "5381": {
+        "name": "invoker_ghost_walk"
+    },
+    "5118": {
+        "name": "tidehunter_gush"
+    },
+    "5121": {
+        "name": "tidehunter_ravage"
+    },
+    "5395": {
+        "name": "lycan_summon_wolves"
+    },
+    "5019": {
+        "name": "drow_ranger_frost_arrows"
+    },
+    "5238": {
+        "name": "rattletrap_power_cogs"
+    },
+    "5328": {
+        "name": "chen_penitence"
+    },
+    "5088": {
+        "name": "skeleton_king_critical_strike"
+    },
+    "5235": {
+        "name": "dazzle_shadow_wave"
+    },
+    "5155": {
+        "name": "sniper_headshot"
+    },
+    "5253": {
+        "name": "life_stealer_consume"
+    },
+    "5033": {
+        "name": "kunkka_x_marks_the_spot"
+    },
+    "5246": {
+        "name": "furion_teleportation"
+    },
+    "5402": {
+        "name": "brewmaster_drunken_brawler"
+    },
+    "5052": {
+        "name": "morphling_waveform"
+    },
+    "5057": {
+        "name": "morphling_replicate"
+    },
+    "5098": {
+        "name": "storm_spirit_static_remnant"
+    },
+    "5022": {
+        "name": "drow_ranger_marksmanship"
+    },
+    "5278": {
+        "name": "night_stalker_darkness"
+    },
+    "5131": {
+        "name": "windrunner_powershot"
+    },
+    "5180": {
+        "name": "venomancer_plague_ward"
+    },
+    "5386": {
+        "name": "invoker_sun_strike"
+    },
+    "5143": {
+        "name": "riki_blink_strike"
+    },
+    "5112": {
+        "name": "zuus_static_field"
+    },
+    "5075": {
+        "name": "pudge_meat_hook"
+    },
+    "5188": {
+        "name": "pugna_nether_ward"
+    },
+    "5437": {
+        "name": "treant_overgrowth"
+    },
+    "5111": {
+        "name": "zuus_lightning_bolt"
+    },
+    "5224": {
+        "name": "luna_lunar_blessing"
+    },
+    "5403": {
+        "name": "brewmaster_primal_split"
+    },
+    "5385": {
+        "name": "invoker_chaos_meteor"
+    },
+    "5438": {
+        "name": "ogre_magi_fireblast"
+    },
+    "5119": {
+        "name": "tidehunter_kraken_shell"
+    },
+    "5360": {
+        "name": "ursa_enrage"
+    },
+    "5137": {
+        "name": "lich_chain_frost"
+    },
+    "5085": {
+        "name": "razor_eye_of_the_storm"
+    },
+    "5359": {
+        "name": "ursa_fury_swipes"
+    },
+    "5030": {
+        "name": "juggernaut_omni_slash"
+    },
+    "5393": {
+        "name": "obsidian_destroyer_essence_aura"
+    },
+    "5163": {
+        "name": "warlock_shadow_word"
+    },
+    "5007": {
+        "name": "axe_berserkers_call"
+    },
+    "5258": {
+        "name": "dark_seer_wall_of_replica"
+    },
+    "5084": {
+        "name": "razor_unstable_current"
+    },
+    "5158": {
+        "name": "necrolyte_death_pulse"
+    },
+    "5161": {
+        "name": "necrolyte_reapers_scythe"
+    },
+    "5282": {
+        "name": "broodmother_insatiable_hunger"
+    },
+    "5196": {
+        "name": "templar_assassin_psi_blades"
+    },
+    "5186": {
+        "name": "pugna_nether_blast"
+    },
+    "5244": {
+        "name": "leshrac_pulse_nova"
+    },
+    "5340": {
+        "name": "doom_bringer_scorched_earth"
+    },
+    "5167": {
+        "name": "warlock_golem_permanent_immolation"
+    },
+    "5017": {
+        "name": "bloodseeker_thirst"
+    },
+    "5051": {
+        "name": "mirana_starfall"
+    },
+    "5220": {
+        "name": "viper_corrosive_skin"
+    },
+    "5035": {
+        "name": "kunkka_ghostship"
+    },
+    "5257": {
+        "name": "dark_seer_surge"
+    },
+    "5418": {
+        "name": "lone_druid_spirit_bear_return"
+    },
+    "5431": {
+        "name": "meepo_poof"
+    },
+    "5324": {
+        "name": "black_dragon_splash_attack"
+    },
+    "5237": {
+        "name": "rattletrap_battery_assault"
+    },
+    "5020": {
+        "name": "drow_ranger_silence"
+    },
+    "5062": {
+        "name": "nevermore_necromastery"
+    },
+    "5300": {
+        "name": "jakiro_macropyre"
+    },
+    "5419": {
+        "name": "lone_druid_spirit_bear_entangle"
+    },
+    "5434": {
+        "name": "treant_natures_guise"
+    },
+    "5352": {
+        "name": "beastmaster_greater_boar_poison"
+    },
+    "5150": {
+        "name": "tinker_laser"
+    },
+    "5262": {
+        "name": "clinkz_death_pact"
+    },
+    "5054": {
+        "name": "morphling_morph"
+    },
+    "5053": {
+        "name": "morphling_adaptive_strike"
+    },
+    "5049": {
+        "name": "mirana_invis"
+    },
+    "5146": {
+        "name": "enigma_malefice"
+    },
+    "5086": {
+        "name": "skeleton_king_hellfire_blast"
+    },
+    "5380": {
+        "name": "silencer_global_silence"
+    },
+    "5191": {
+        "name": "phantom_assassin_phantom_strike"
+    },
+    "5398": {
+        "name": "lycan_shapeshift"
+    },
+    "5194": {
+        "name": "templar_assassin_refraction"
+    },
+    "5162": {
+        "name": "warlock_fatal_bonds"
+    },
+    "5090": {
+        "name": "death_prophet_carrion_swarm"
+    },
+    "5047": {
+        "name": "lion_finger_of_death"
+    },
+    "5357": {
+        "name": "ursa_earthshock"
+    },
+    "5251": {
+        "name": "life_stealer_open_wounds"
+    },
+    "5326": {
+        "name": "blue_dragonspawn_overseer_evasion"
+    },
+    "5115": {
+        "name": "slardar_slithereen_crush"
+    },
+    "5082": {
+        "name": "razor_plasma_field"
+    },
+    "5099": {
+        "name": "storm_spirit_electric_vortex"
+    },
+    "5336": {
+        "name": "spectre_dispersion"
+    },
+    "5205": {
+        "name": "courier_return_to_base"
+    },
+    "5097": {
+        "name": "sven_gods_strength"
+    },
+    "5243": {
+        "name": "leshrac_lightning_storm"
+    },
+    "5249": {
+        "name": "life_stealer_rage"
+    },
+    "5338": {
+        "name": "spectre_reality"
+    },
+    "5004": {
+        "name": "antimage_blink"
+    },
+    "5154": {
+        "name": "sniper_shrapnel"
+    },
+    "5240": {
+        "name": "rattletrap_hookshot"
+    },
+    "5376": {
+        "name": "invoker_cold_snap"
+    },
+    "5126": {
+        "name": "crystal_maiden_crystal_nova"
+    },
+    "5018": {
+        "name": "bloodseeker_rupture"
+    },
+    "5032": {
+        "name": "kunkka_tidebringer"
+    },
+    "5384": {
+        "name": "invoker_alacrity"
+    },
+    "5271": {
+        "name": "huskar_inner_vitality"
+    },
+    "5009": {
+        "name": "axe_counter_helix"
+    },
+    "5334": {
+        "name": "spectre_spectral_dagger"
+    },
+    "5247": {
+        "name": "furion_force_of_nature"
+    },
+    "5404": {
+        "name": "brewmaster_earth_hurl_boulder"
+    },
+    "5368": {
+        "name": "alchemist_goblins_greed"
+    },
+    "5132": {
+        "name": "windrunner_windrun"
+    },
+    "5034": {
+        "name": "kunkka_return"
+    },
+    "5350": {
+        "name": "backdoor_protection"
+    },
+    "5228": {
+        "name": "dragon_knight_dragon_blood"
+    },
+    "5122": {
+        "name": "vengefulspirit_magic_missile"
+    },
+    "5065": {
+        "name": "phantom_lancer_spirit_lance"
+    },
+    "5059": {
+        "name": "nevermore_shadowraze1"
+    },
+    "5208": {
+        "name": "courier_take_stash_items"
+    },
+    "5060": {
+        "name": "nevermore_shadowraze2"
+    },
+    "5061": {
+        "name": "nevermore_shadowraze3"
+    },
+    "5291": {
+        "name": "weaver_geminate_attack"
+    },
+    "5309": {
+        "name": "alpha_wolf_command_aura"
+    },
+    "5348": {
+        "name": "ancient_apparition_ice_blast"
+    },
+    "5439": {
+        "name": "ogre_magi_ignite"
+    },
+    "5319": {
+        "name": "harpy_storm_chain_lightning"
+    },
+    "5265": {
+        "name": "omniknight_degen_aura"
+    },
+    "5268": {
+        "name": "enchantress_enchant"
+    },
+    "5241": {
+        "name": "leshrac_split_earth"
+    },
+    "5092": {
+        "name": "death_prophet_witchcraft"
+    },
+    "5219": {
+        "name": "viper_nethertoxin"
+    },
+    "5160": {
+        "name": "necrolyte_sadist"
+    },
+    "5193": {
+        "name": "phantom_assassin_coup_de_grace"
+    },
+    "5345": {
+        "name": "ancient_apparition_cold_feet"
+    },
+    "5073": {
+        "name": "puck_dream_coil"
+    },
+    "5181": {
+        "name": "venomancer_poison_nova"
+    },
+    "5426": {
+        "name": "chaos_knight_chaos_bolt"
+    },
+    "5339": {
+        "name": "doom_bringer_devour"
+    },
+    "5285": {
+        "name": "bounty_hunter_shuriken_toss"
+    },
+    "5327": {
+        "name": "blue_dragonspawn_overseer_devotion_aura"
+    },
+    "5026": {
+        "name": "earthshaker_echo_slam"
+    },
+    "5201": {
+        "name": "necronomicon_warrior_sight"
+    },
+    "5273": {
+        "name": "huskar_berserkers_blood"
+    },
+    "5197": {
+        "name": "templar_assassin_psionic_trap"
+    },
+    "5276": {
+        "name": "night_stalker_crippling_fear"
+    },
+    "5100": {
+        "name": "storm_spirit_overload"
+    },
+    "5367": {
+        "name": "alchemist_unstable_concoction_throw"
+    },
+    "5056": {
+        "name": "morphling_morph_str"
+    },
+    "5343": {
+        "name": "doom_bringer_empty"
+    },
+    "5344": {
+        "name": "doom_bringer_empty"
+    },
+    "5396": {
+        "name": "lycan_howl"
+    },
+    "5170": {
+        "name": "beastmaster_hawk_invisibility"
+    },
+    "5101": {
+        "name": "storm_spirit_ball_lightning"
+    },
+    "5263": {
+        "name": "omniknight_purification"
+    },
+    "5423": {
+        "name": "shadow_demon_shadow_poison"
+    },
+    "5229": {
+        "name": "dragon_knight_elder_dragon_form"
+    },
+    "5027": {
+        "name": "juggernaut_blade_dance"
+    },
+    "5421": {
+        "name": "shadow_demon_disruption"
+    },
+    "5178": {
+        "name": "venomancer_venomous_gale"
+    },
+    "5296": {
+        "name": "gnoll_assassin_envenomed_weapon"
+    },
+    "5308": {
+        "name": "alpha_wolf_critical_strike"
+    },
+    "5078": {
+        "name": "shadow_shaman_ether_shock"
+    },
+    "5277": {
+        "name": "night_stalker_hunter_in_the_night"
+    },
+    "5227": {
+        "name": "dragon_knight_dragon_tail"
+    },
+    "5364": {
+        "name": "gyrocopter_call_down"
+    },
+    "5172": {
+        "name": "beastmaster_inner_beast"
+    },
+    "5077": {
+        "name": "pudge_dismember"
+    },
+    "5133": {
+        "name": "windrunner_focusfire"
+    },
+    "5301": {
+        "name": "ghost_frost_attack"
+    },
+    "5011": {
+        "name": "bane_brain_sap"
+    },
+    "5159": {
+        "name": "necrolyte_heartstopper_aura"
+    },
+    "5428": {
+        "name": "chaos_knight_chaos_strike"
+    },
+    "5087": {
+        "name": "skeleton_king_vampiric_aura"
+    },
+    "5259": {
+        "name": "clinkz_strafe"
+    },
+    "5250": {
+        "name": "life_stealer_feast"
+    },
+    "5185": {
+        "name": "faceless_void_chronosphere"
+    },
+    "5044": {
+        "name": "lion_impale"
+    },
+    "5203": {
+        "name": "necronomicon_archer_mana_burn"
+    },
+    "5010": {
+        "name": "axe_culling_blade"
+    },
+    "5272": {
+        "name": "huskar_burning_spear"
+    },
+    "5406": {
+        "name": "brewmaster_earth_pulverize"
+    },
+    "5293": {
+        "name": "kobold_taskmaster_speed_aura"
+    },
+    "5405": {
+        "name": "brewmaster_earth_spell_immunity"
+    },
+    "5202": {
+        "name": "necronomicon_warrior_mana_burn"
+    },
+    "5245": {
+        "name": "furion_sprout"
+    },
+    "5374": {
+        "name": "invoker_empty2"
+    },
+    "5070": {
+        "name": "puck_ethereal_jaunt"
+    },
+    "5373": {
+        "name": "invoker_empty1"
+    },
+    "5031": {
+        "name": "kunkka_torrent"
+    },
+    "5066": {
+        "name": "phantom_lancer_doppelwalk"
+    },
+    "5444": {
+        "name": "undying_tombstone"
+    },
+    "5014": {
+        "name": "bane_nightmare"
+    },
+    "5110": {
+        "name": "zuus_arc_lightning"
+    },
+    "5445": {
+        "name": "undying_tombstone_zombie_aura"
+    },
+    "5128": {
+        "name": "crystal_maiden_brilliance_aura"
+    },
+    "5012": {
+        "name": "bane_enfeeble"
+    },
+    "5315": {
+        "name": "satyr_soulstealer_mana_burn"
+    },
+    "5361": {
+        "name": "gyrocopter_rocket_barrage"
+    },
+    "5232": {
+        "name": "dragon_knight_frost_breath"
+    },
+    "5383": {
+        "name": "invoker_emp"
+    },
+    "5422": {
+        "name": "shadow_demon_soul_catcher"
+    },
+    "5042": {
+        "name": "lina_fiery_soul"
+    },
+    "5040": {
+        "name": "lina_dragon_slave"
+    },
+    "5094": {
+        "name": "sven_storm_bolt"
+    },
+    "5284": {
+        "name": "broodmother_poison_sting"
+    },
+    "5430": {
+        "name": "meepo_earthbind"
+    },
+    "5068": {
+        "name": "phantom_lancer_phantom_edge"
+    },
+    "5072": {
+        "name": "puck_phase_shift"
+    },
+    "5182": {
+        "name": "faceless_void_time_walk"
+    },
+    "5071": {
+        "name": "puck_waning_rift"
+    },
+    "5135": {
+        "name": "lich_frost_armor"
+    },
+    "5102": {
+        "name": "sandking_burrowstrike"
+    },
+    "5255": {
+        "name": "dark_seer_vacuum"
+    },
+    "5394": {
+        "name": "obsidian_destroyer_sanity_eclipse"
+    },
+    "5149": {
+        "name": "enigma_black_hole"
+    },
+    "5399": {
+        "name": "lycan_summon_wolves_critical_strike"
+    },
+    "5001": {
+        "name": "default_attack"
+    },
+    "5198": {
+        "name": "templar_assassin_trap"
+    },
+    "5303": {
+        "name": "neutral_spell_immunity"
+    },
+    "5462": {
+        "name": "nyx_assassin_impale"
+    },
+    "5463": {
+        "name": "nyx_assassin_mana_burn"
+    },
+    "5464": {
+        "name": "nyx_assassin_spiked_carapace"
+    },
+    "5465": {
+        "name": "nyx_assassin_vendetta"
+    },
+    "5494": {
+        "name": "slark_dark_pact"
+    },
+    "5495": {
+        "name": "slark_pounce"
+    },
+    "5496": {
+        "name": "slark_essence_shift"
+    },
+    "5497": {
+        "name": "slark_shadow_dance"
+    },
+    "5504": {
+        "name": "medusa_split_shot"
+    },
+    "5505": {
+        "name": "medusa_mystic_snake"
+    },
+    "5506": {
+        "name": "medusa_mana_shield"
+    },
+    "5507": {
+        "name": "medusa_stone_gaze"
+    },
+    "5508": {
+        "name": "troll_warlord_berserkers_rage"
+    },
+    "5509": {
+        "name": "troll_warlord_whirling_axes_ranged"
+    },
+    "5510": {
+        "name": "troll_warlord_whirling_axes_melee"
+    },
+    "5511": {
+        "name": "troll_warlord_fervor"
+    },
+    "5512": {
+        "name": "troll_warlord_battle_trance"
+    },
+    "5514": {
+        "name": "centaur_hoof_stomp"
+    },
+    "5515": {
+        "name": "centaur_double_edge"
+    },
+    "5516": {
+        "name": "centaur_return"
+    },
+    "5517": {
+        "name": "centaur_stampede"
+    },
+    "5518": {
+        "name": "magnataur_shockwave"
+    },
+    "5519": {
+        "name": "magnataur_empower"
+    },
+    "5520": {
+        "name": "magnataur_skewer"
+    },
+    "5521": {
+        "name": "magnataur_reverse_polarity"
+    },
+    "5524": {
+        "name": "shredder_whirling_death"
+    },
+    "5525": {
+        "name": "shredder_timber_chain"
+    },
+    "5526": {
+        "name": "shredder_reactive_armor"
+    },
+    "5527": {
+        "name": "shredder_chakram"
+    },
+    "5528": {
+        "name": "shredder_return_chakram"
+    },
+    "5471": {
+        "name": "keeper_of_the_light_illuminate"
+    },
+    "5472": {
+        "name": "keeper_of_the_light_mana_leak"
+    },
+    "5473": {
+        "name": "keeper_of_the_light_chakra_magic"
+    },
+    "5474": {
+        "name": "keeper_of_the_light_spirit_form"
+    },
+    "5475": {
+        "name": "keeper_of_the_light_recall"
+    },
+    "5476": {
+        "name": "keeper_of_the_light_blinding_light"
+    },
+    "5477": {
+        "name": "keeper_of_the_light_illuminate_end"
+    },
+    "5479": {
+        "name": "keeper_of_the_light_spirit_form_illuminate"
+    },
+    "5448": {
+        "name": "rubick_telekinesis"
+    },
+    "5450": {
+        "name": "rubick_fade_bolt"
+    },
+    "5451": {
+        "name": "rubick_null_field"
+    },
+    "5452": {
+        "name": "rubick_spell_steal"
+    },
+    "5458": {
+        "name": "disruptor_thunder_strike"
+    },
+    "5459": {
+        "name": "disruptor_glimpse"
+    },
+    "5460": {
+        "name": "disruptor_kinetic_field"
+    },
+    "5461": {
+        "name": "disruptor_static_storm"
+    },
+    "5467": {
+        "name": "naga_siren_mirror_image"
+    },
+    "5468": {
+        "name": "naga_siren_ensnare"
+    },
+    "5469": {
+        "name": "naga_siren_rip_tide"
+    },
+    "5470": {
+        "name": "naga_siren_song_of_the_siren"
+    },
+    "5480": {
+        "name": "visage_grave_chill"
+    },
+    "5481": {
+        "name": "visage_soul_assumption"
+    },
+    "5482": {
+        "name": "visage_gravekeepers_cloak"
+    },
+    "5483": {
+        "name": "visage_summon_familiars"
+    },
+    "5485": {
+        "name": "wisp_tether"
+    },
+    "5486": {
+        "name": "wisp_spirits"
+    },
+    "5487": {
+        "name": "wisp_overcharge"
+    },
+    "5488": {
+        "name": "wisp_relocate"
+    },
+    "5489": {
+        "name": "wisp_tether_break"
+    },
+    "wisp_spirits_out": {
+        "name": "wisp_spirits_in"
+    },
+    "5548": {
+        "name": "bristleback_viscous_nasal_goo"
+    },
+    "5549": {
+        "name": "bristleback_quill_spray"
+    },
+    "5550": {
+        "name": "bristleback_bristleback"
+    },
+    "5551": {
+        "name": "bristleback_warpath"
+    },
+    "5565": {
+        "name": "tusk_ice_shards"
+    },
+    "5566": {
+        "name": "tusk_snowball"
+    },
+    "5567": {
+        "name": "tusk_frozen_sigil"
+    },
+    "5568": {
+        "name": "tusk_walrus_punch"
+    },
+    "5581": {
+        "name": "skywrath_mage_arcane_bolt"
+    },
+    "5582": {
+        "name": "skywrath_mage_concussive_shot"
+    },
+    "5583": {
+        "name": "skywrath_mage_ancient_seal"
+    },
+    "5584": {
+        "name": "skywrath_mage_mystic_flare"
+    },
+    "5585": {
+        "name": "abaddon_death_coil"
+    },
+    "5586": {
+        "name": "abaddon_aphotic_shield"
+    },
+    "5587": {
+        "name": "abaddon_frostmourne"
+    },
+    "5588": {
+        "name": "abaddon_borrowed_time"
+    },
+    "5589": {
+        "name": "elder_titan_echo_stomp"
+    },
+    "5591": {
+        "name": "elder_titan_ancestral_spirit"
+    },
+    "5593": {
+        "name": "elder_titan_natural_order"
+    },
+    "5594": {
+        "name": "elder_titan_earth_splitter"
+    },
+    "5595": {
+        "name": "legion_commander_overwhelming_odds"
+    },
+    "5596": {
+        "name": "legion_commander_press_the_attack"
+    },
+    "5597": {
+        "name": "legion_commander_moment_of_courage"
+    },
+    "5598": {
+        "name": "legion_commander_duel"
+    },
+    "5599": {
+        "name": "techies_land_mines"
+    },
+    "5600": {
+        "name": "techies_stasis_trap"
+    },
+    "5601": {
+        "name": "techies_suicide_squad_attack"
+    },
+    "5602": {
+        "name": "techies_remote_mines"
+    },
+    "5603": {
+        "name": "ember_spirit_searing_chains"
+    },
+    "5604": {
+        "name": "ember_spirit_sleight_of_fist"
+    },
+    "5605": {
+        "name": "ember_spirit_flame_guard"
+    },
+    "5606": {
+        "name": "ember_spirit_fire_remnant"
+    },
+    "5607": {
+        "name": "ember_spirit_activate_fire_remnant"
+    },
+    "5608": {
+        "name": "earth_spirit_boulder_smash"
+    },
+    "5609": {
+        "name": "earth_spirit_rolling_boulder"
+    },
+    "5610": {
+        "name": "earth_spirit_geomagnetic_grip"
+    },
+    "5611": {
+        "name": "earth_spirit_stone_caller"
+    },
+    "5612": {
+        "name": "earth_spirit_magnetize"
+    },
+    "5613": {
+        "name": "abyssal_underlord_firestorm"
+    },
+    "5614": {
+        "name": "abyssal_underlord_pit_of_malice"
+    },
+    "5615": {
+        "name": "abyssal_underlord_atrophy_aura"
+    },
+    "5616": {
+        "name": "abyssal_underlord_dark_rift"
+    },
+    "5619": {
+        "name": "terrorblade_reflection"
+    },
+    "5620": {
+        "name": "terrorblade_conjure_image"
+    },
+    "5621": {
+        "name": "terrorblade_metamorphosis"
+    },
+    "5622": {
+        "name": "terrorblade_sunder"
+    },
+    "5623": {
+        "name": "phoenix_icarus_dive"
+    },
+    "5625": {
+        "name": "phoenix_fire_spirits"
+    },
+    "5626": {
+        "name": "phoenix_sun_ray"
+    },
+    "5630": {
+        "name": "phoenix_supernova"
+    },
+    "5632": {
+        "name": "drow_ranger_wave_of_silence"
+    },
+    "5637": {
+        "name": "oracle_fortunes_end"
+    },
+    "5638": {
+        "name": "oracle_fates_edict"
+    },
+    "5639": {
+        "name": "oracle_purifying_flames"
+    },
+    "5640": {
+        "name": "oracle_false_promise"
+    },
+    "5651": {
+        "name": "winter_wyvern_arctic_burn"
+    },
+    "5652": {
+        "name": "winter_wyvern_splinter_blast"
+    },
+    "5653": {
+        "name": "winter_wyvern_cold_embrace"
+    },
+    "5654": {
+        "name": "winter_wyvern_winters_curse"
+    }
+}

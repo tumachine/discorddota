@@ -1,0 +1,7 @@
+http://www.dota2.com/jsfeed/heropickerdata
+http://www.dota2.com/jsfeed/abilitydata
+http://www.dota2.com/jsfeed/itemdata
+http://www.dota2.com/webapi/ILeaderboard/GetDivisionLeaderboard/v0001?division=americas
+http://www.dota2.com/webapi/ILeaderboard/GetDivisionLeaderboard/v0001?division=europe
+http://www.dota2.com/webapi/ILeaderboard/GetDivisionLeaderboard/v0001?division=china
+http://www.dota2.com/webapi/ILeaderboard/GetDivisionLeaderboard/v0001?division=se_asia

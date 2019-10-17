@@ -1,0 +1,32 @@
+{
+    "-1": {
+        "name": "Invalid"
+    },
+    "0": {
+        "name": "Public matchmaking"
+    },
+    "1": {
+        "name": "Practice"
+    },
+    "2": {
+        "name": "Tournament"
+    },
+    "3": {
+        "name": "Tutorial"
+    },
+    "4": {
+        "name": "Co-op with bots"
+    },
+    "5": {
+        "name": "Team match"
+    },
+    "6": {
+        "name": "Solo Queue"
+    },
+    "7": {
+        "name": "Ranked"
+    },
+    "8": {
+        "name": "Solo Mid 1 vs 1"
+    }
+}

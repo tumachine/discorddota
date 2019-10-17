@@ -1,0 +1,30 @@
+{
+    "0": {
+        "name": "NONE",
+        "description": "finished match, no abandon"
+    },
+    "1": {
+        "name": "DISCONNECTED",
+        "description": "player DC, no abandon"
+    },
+    "2": {
+        "name": "DISCONNECTED_TOO_LONG",
+        "description": "player DC > 5min, abandon"
+    },
+    "3": {
+        "name": "ABANDONED",
+        "description": "player dc, clicked leave, abandon"
+    },
+    "4": {
+        "name": "AFK",
+        "description": "player AFK, abandon"
+    },
+    "5": {
+        "name": "NEVER_CONNECTED",
+        "description": "never connected, no abandon"
+    },
+    "6": {
+        "name": "NEVER_CONNECTED_TOO_LONG",
+        "description": "too long to connect, no abandon"
+    }
+}

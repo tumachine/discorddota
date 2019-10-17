@@ -1,0 +1,13 @@
+{
+  "-1": { "id": -1, "name": "Invalid", "langKey": "lobbytype.invalid" },
+  "0": { "id": 0, "name": "Unranked", "langKey": "lobbytype.unranked" },
+  "1": { "id": 1, "name": "Practice", "langKey": "lobbytype.practice" },
+  "2": { "id": 2, "name": "Tournament", "langKey": "lobbytype.tournament" },
+  "3": { "id": 3, "name": "Tutorial", "langKey": "lobbytype.tutorial" },
+  "4": { "id": 4, "name": "Coop vs Bots", "langKey": "lobbytype.coop_vs_bots" },
+  "5": { "id": 5, "name": "Team Match", "langKey": "lobbytype.team_match" },
+  "6": { "id": 6, "name": "Solo Queue", "langKey": "lobbytype.solo" },
+  "7": { "id": 7, "name": "Ranked", "langKey": "lobbytype.ranked" },
+  "8": { "id": 8, "name": "Solo Mid", "langKey": "lobbytype.solo_mid" },
+  "9": { "id": 9, "name": "Battle Cup", "langKey": "lobbytype.battle_cup" }
+}

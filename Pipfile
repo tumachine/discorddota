@@ -1,0 +1,25 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+discord-py = {extras = ["voice"],file = "https://github.com/Rapptz/discord.py/archive/rewrite.zip"}
+requests = "*"
+peewee = "*"
+gevent-eventemitter = "*"
+ptable = "*"
+pillow = "*"
+beautifulsoup4 = "*"
+pyttsx3 = "*"
+pypiwin32 = "*"
+comtypes = "*"
+tts = {git = "https://github.com/DeepHorizons/tts"}
+class = "*"
+youtube-dl = "*"
+keyboard = "*"
+
+[requires]
+python_version = "3.6"
