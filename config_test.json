@@ -1,11 +1,11 @@
 {
-  "api_key": "7CB8779F71A78DDE9712E590674E9333",
-  "token": "NTMyNjU3Njk1MzA4NjQ0MzY3.Dzhuog.c_sWilcF2peMYaSc1GgXvmVn6wY",
+  "api_key": "",
+  "token": "",
   "voice": "David",
-  "guild_id": "532657285923864606",
+  "guild_id": "",
   "prefix": "!",
-  "text_channel": "532657285923864608",
-  "voice_channel": "543807026669682697",
+  "text_channel": "",
+  "voice_channel": "",
   "sound_directions" : {
     "roons" : "system",
     "midas" : "system",
